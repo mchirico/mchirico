@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with Typescript, Python and Go
 - 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook)
 - 👯 I’m looking to collaborate on ... Github Action, Kubernetes
