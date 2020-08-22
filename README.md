@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with Typescript, Python and Go
+- 🔭 I’m currently working Kubernetes in Github Actions
 - 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook))
 - 👯 I’m looking to collaborate on ... Github Action, Kubernetes
 - 🤔 I’m looking for help with finding good meetups/groups
