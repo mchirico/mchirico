@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently working on Kubernetes: KinD, istio and Security 
 - 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook))
-- 👯 I’m looking to collaborate on ... Github Action, Kubernetes
-- 🤔 I’m looking for help with finding good meetups/groups
 - 📫 How to reach me: ... Slack or Twitter
-- ⚡ Fun fact: ...
+- ⚡ "Culture eats strategy for breakfast." --Peter Drucker
 
 <!--
 **mchirico/mchirico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
