@@ -1,7 +1,7 @@
 ### It's Me 👋
 
 
-- 🔭 I’m currently working on Kubernetes: KinD, istio and Security 
+- 🔭 I’m currently working on Kubernetes: Go and istio..
 - 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook))
 - 📫 How to reach me: ... Slack or Twitter
 - ⚡ "Culture eats strategy for breakfast." --Peter Drucker
