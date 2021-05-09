@@ -1,7 +1,7 @@
 ### It's Me 👋
 
 
-- 🔭 I’m currently working on Kubernetes: Go and istio..
+- 🔭 Vscode in K8s container, programming go [go_vscode_container](https://github.com/mchirico/go_vscode_container)
 - 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook))
 - 📫 How to reach me: ... Slack or Twitter
 - ⚡ "Culture eats strategy for breakfast." --Peter Drucker
