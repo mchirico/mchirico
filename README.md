@@ -1,8 +1,8 @@
 ### It's Me 👋
 
 
-- 🔭 Vscode in K8s container, programming go [go_vscode_container](https://github.com/mchirico/go_vscode_container)
-- 🌱 I’m currently learning Machine Learning (Reading [fastbook](https://github.com/fastai/fastbook))
+- 🔭 Go, Kubernetes, AWS
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/mikechirico/) or [twitter](https://twitter.com/mchirico)
 - ⚡ "Culture eats strategy for breakfast." --Peter Drucker
 
