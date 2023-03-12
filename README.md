@@ -1,5 +1,7 @@
-### It's Me 👋
+### My Daily Notes 👋
 
+[Go Daily](https://cwxstat.github.io/go-daily/)
+[Rust Daily](https://cwxstat.github.io/rust_daily/)
 
 - 🔭 Go, Kubernetes, AWS
 - 🌱 I’m currently learning Rust
