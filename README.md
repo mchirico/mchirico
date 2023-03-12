@@ -1,7 +1,18 @@
-### My Daily Notes 👋
+# My Daily Notes 
+
+These are my raw daily notes. What I'm thinking about, what I'm talking to people about.  These notes are designed to be messy.
+
+## Notes on Go
 
 [Go Daily](https://cwxstat.github.io/go-daily/)
+
+## Notes on Rust
+
 [Rust Daily](https://cwxstat.github.io/rust_daily/)
+
+
+
+# Background on me
 
 - 🔭 Go, Kubernetes, AWS
 - 🌱 I’m currently learning Rust
